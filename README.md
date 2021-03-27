@@ -25,7 +25,7 @@ Instructions:
 
 Инструкция:
 
-1. Скачиваете архив HelicopterMod_client-main.zip
+1. Скачиваете архив bell_police_bin-main.zip
 2. Запускаете Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Запускаете и выбираете в нем AddonBuilder
 4. В строке Addons source directory указываете bell_police_bin-main \ bell_police_bin-main \ HelicopterSIB - папка HelicopterSIB 
